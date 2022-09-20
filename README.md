@@ -1,6 +1,6 @@
 # nand2tetris
 
-My solutions for nand2tetris projects (Still in progress)
+My solutions for nand2tetris (Still in progress)
 
 # Lectures
 
